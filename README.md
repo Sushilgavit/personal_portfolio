@@ -1,2 +1,3 @@
-"# personal_portfolio" 
-"# personal_portfolio" 
+download and run
+npm run dev
+
