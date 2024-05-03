@@ -10,7 +10,7 @@ const Projects = () => {
         if (projectName === "India Drive") {
             githubURL = "https://github.com/Sushilgavit/Fleet_Management_System";
         } else if (projectName === "Portfolio") {
-            githubURL = "https://github.com/Sushilgavit/portfolio";
+            githubURL = "https://github.com/Sushilgavit/personal_portfolio";
         }
         // Open the GitHub repository in a new tab
         window.open(githubURL, "_blank");
