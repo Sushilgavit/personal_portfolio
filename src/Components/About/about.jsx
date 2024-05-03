@@ -20,6 +20,7 @@ const About = () => {
                         <p>Passionate full-stack developer skilled in JavaScript, React, Java, and Spring Boot. Proficient in MySQL and MongoDB. Strong foundation in HTML, CSS, and JavaScript. Eager to contribute expertise and enthusiasm to projects.</p>
                     </div>
                     <div className="about-skills">
+                        <h1>skills</h1>
                         <div className="about-skill"><p>HTML + CSS</p><hr style={{width:"70%"}}/></div>
                         <div className="about-skill"><p>JavaScript</p><hr style={{width:"80%"}}/></div>
                         <div className="about-skill"><p>React.JS</p><hr style={{width:"70%"}}/></div>
