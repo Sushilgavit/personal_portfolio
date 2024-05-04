@@ -2,7 +2,8 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    gap: 35 px;
+    gap: 40px;
+    
 }
 
 .hero img {
@@ -91,7 +92,7 @@
 
     .hero h1 {
         margin-top: 0px;
-        width: 90%;
+        width: 100%;
         font-size: 50px;
     }
 
