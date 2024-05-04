@@ -63,9 +63,9 @@
     transition: 0.3s;
 }
 
-@media(max-width:768px) {
+@media(max-width:1080px) {
     .about {
-        gap: 80px;
+        gap: 25px;
         margin: 50px 70px;
         align-items: start;
     }
