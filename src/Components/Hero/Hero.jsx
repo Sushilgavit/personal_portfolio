@@ -38,6 +38,7 @@ const Hero = () => {
         <div id='home' className="hero">
             <img src={profile_img} alt="" />
             <h1><span>Hi ,I'm Sushil Gavit</span> </h1>
+             <div>   
             <h2>a <span>{text}</span>
                 <Cursor 
                 cursorBlinking="false"
@@ -45,6 +46,7 @@ const Hero = () => {
                 cursorColor="#ff014f"
                 />
             </h2>
+            </div>
             {/* <p>
                 Passionate full-stack developer skilled in JavaScript, React, Java, and Spring Boot. Proficient in MySQL and MongoDB. Strong foundation in HTML, CSS, and JavaScript. Eager to contribute expertise and enthusiasm to projects.
             </p> */}
